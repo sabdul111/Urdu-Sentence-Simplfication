@@ -1,0 +1,14 @@
+@inproceedings{anees-abdul-rauf-2021-automatic,
+    title = "Automatic Sentence Simplification in Low Resource Settings for {U}rdu",
+    author = "Anees, Yusra  and
+      Abdul Rauf, Sadaf",
+    booktitle = "Proceedings of the 1st Workshop on NLP for Positive Impact",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.nlp4posimpact-1.7",
+    doi = "10.18653/v1/2021.nlp4posimpact-1.7",
+    pages = "60--70",
+    abstract = "To build automated simplification systems, corpora of complex sentences and their simplified versions is the first step to understand sentence complexity and enable the development of automatic text simplification systems. We present a lexical and syntactically simplified Urdu simplification corpus with a detailed analysis of the various simplification operations and human evaluation of corpus quality. We further analyze our corpora using text readability measures and present a comparison of the original, lexical simplified and syntactically simplified corpora. In addition, we compare our corpus with other existing simplification corpora by building simplification systems and evaluating these systems using BLEU and SARI scores. Our system achieves the highest BLEU score and comparable SARI score in comparison to other systems. We release our simplification corpora for the benefit of the research community.",
+}
