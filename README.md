@@ -1,4 +1,4 @@
-# Urdu-Sentence-Simplfication
+# Urdu-Sentence-Simplification
 
 Please cite the following paper if you use our corpus:
 
